@@ -8,12 +8,6 @@ Curious about:
 - Distributed and decentralized systems
 - Minimalistic systems and UX
 
-<script>
-  console.log(
-        "%cHello!",
-        "color:red;font-family:system-ui;font-size:4rem;-webkit-text-stroke: 1px black;font-weight:bold"
-  );
-</script>
 <!--
 **kivS/kivS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
