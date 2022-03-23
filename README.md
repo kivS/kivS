@@ -4,6 +4,7 @@ I'm Vik and I enjoy solving problems with software.
 
 Curious about:
 
+- Automation
 - Brain-computer-interfaces
 - Distributed and decentralized systems
 - Minimalistic systems and UX
