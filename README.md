@@ -13,7 +13,7 @@ Curious about:
 
 Current favorite tools:
 - Python
-- TypeScript
+- Javascript/TypeScript
 - Remix
 - Sqlite
 - PostgreSQL
