@@ -11,14 +11,6 @@ Curious about:
 
 
 
-Current favorite tools:
-- Python
-- Javascript/TypeScript
-- Remix
-- Sqlite
-- PostgreSQL
-- Redis
-
 <!--
 **kivS/kivS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
