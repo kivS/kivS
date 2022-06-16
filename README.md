@@ -3,7 +3,7 @@
 Interested in:
 
 - Automation
-- Minimalistic systems and UXs
+- Minimalist systems and UXs
 - Data insights
 
 Curious about:
