@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-I'm Vik and I enjoy solving problems with software.
+Interested in:
+
+- Automation
+- Minimalistic systems and UXs
 
 Curious about:
 
-- Automation
-- Minimalistic systems and UX
 - Distributed and decentralized systems
 - Brain-computer-interfaces
 
