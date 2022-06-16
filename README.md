@@ -4,6 +4,7 @@ Interested in:
 
 - Automation
 - Minimalistic systems and UXs
+- Data insights
 
 Curious about:
 
