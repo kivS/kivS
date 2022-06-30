@@ -10,6 +10,7 @@ Curious about:
 
 - Distributed and decentralized systems
 - Brain-computer-interfaces
+- ♾️
 
 
 
